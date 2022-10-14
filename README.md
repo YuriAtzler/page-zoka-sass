@@ -2,7 +2,7 @@
 
 Trabalho realizado no Vem Ser!
 
-> link Vercel: <https://page-zoka-sass.vercel.app/>
+> link Vercel: [https://page-zoka-sass.vercel.app/]
 
 Follow the steps
 
