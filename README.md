@@ -1,5 +1,7 @@
 # page-zoka-sass
 
+- follow the steps
+
 ### step 1
 
 > npm install
