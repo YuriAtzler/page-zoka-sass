@@ -2,6 +2,8 @@
 
 Trabalho realizado no Vem Ser!
 
+> link Vercel: page-zoka-sass.vercel.app
+
 Follow the steps
 
 ### step 1
