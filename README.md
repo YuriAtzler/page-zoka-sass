@@ -1,6 +1,8 @@
 # page-zoka-sass
 
-- follow the steps
+Trabalho realizado no Vem Ser!
+
+Follow the steps
 
 ### step 1
 
